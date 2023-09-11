@@ -1,2 +1,2 @@
 # github-workflow1
-## "To Improve is to change"
+## "To Improve is to change."
